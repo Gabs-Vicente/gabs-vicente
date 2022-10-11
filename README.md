@@ -14,8 +14,8 @@
 
  <div align="center">
    <a href="https://github.com/gabs-vicente">
-   <img height="115em" src="https://github-readme-stats.vercel.app/api?username=gabs-vicente&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-vicente&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabs-vicente&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" style="max-width: 100%"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-vicente&layout=compact&langs_count=6&theme=midnight-purple" style="max-width: 100%;"/>
 
 </div>
 
