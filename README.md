@@ -1,4 +1,4 @@
-## Olá, Gabriel sou eu e seja bem vindo(a) ao meu perfil !
+## Olá, Gabriel sou eu e seja bem vindo(a) ao meu perfil ! ✌️
 
 <img align="right" src="https://i.gifer.com/origin/6e/6e5867851ee89a5a3f28beeaa49e01ae.gif" width=150>
 
