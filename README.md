@@ -1,6 +1,6 @@
 ## Olá, Gabriel sou eu e seja bem vindo(a) ao meu perfil ! ✌️
 
-<img align="right" src="https://i.gifer.com/origin/6e/6e5867851ee89a5a3f28beeaa49e01ae.gif" width=140>
+<img align="right" src="https://i.gifer.com/origin/6e/6e5867851ee89a5a3f28beeaa49e01ae.gif" width=120>
 
 <h>Parabéns, você encontrou um easter egg no GitHub!</h>
 
