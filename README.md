@@ -9,7 +9,7 @@
 <li>👤 Desde a adolescência adorava mexer com HTML em Blogs/Tumblr e decidi me aprofundar em programação em 2022 por indicação do meu melhor amigo.
 <li>👾 Totalmente apaixonado por video games desde criança.</li>
 <li>🍥 Um aficionado por animes, mangás e cultura japonesa no geral.
-<li>📖 Atualmente estou estudando Programação FrontEnd.</li>
+<li>📖 Atualmente estou estudando Desenvolvimento Web.</li>
 </ul>
 
 <div>
