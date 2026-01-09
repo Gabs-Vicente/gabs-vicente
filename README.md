@@ -9,16 +9,8 @@
 <li>👤 Desde a adolescência adorava mexer com HTML em Blogs/Tumblr e decidi me aprofundar em programação em 2022 por indicação do meu melhor amigo.
 <li>👾 Totalmente apaixonado por video games desde criança.</li>
 <li>🍥 Um aficionado por animes, mangás e cultura japonesa no geral.
-<li>📖 Atualmente estou estudando Desenvolvimento Web.</li>
+<li>📖 Atualmente estou estudando Analise de Dados.</li>
 </ul>
-
-<div>
-  <a href="https://github.com/gabs-vicente">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabs-vicente&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-vicente&layout=compact&langs_count=7&theme=midnight-purple"/>
- </a>
-</div>
-
  <br>
  <h2 dir="auto"></h2>
  
